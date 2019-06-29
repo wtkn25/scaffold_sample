@@ -1,0 +1,15 @@
+current directory: /Users/bell/implement/rails_apps/scaffold_sample/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/bell/.anyenv/envs/rbenv/versions/2.4.2/bin/ruby -r ./siteconf20190630-18978-1w6ay7s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/bell/implement/rails_apps/scaffold_sample/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/bell/implement/rails_apps/scaffold_sample/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/bell/implement/rails_apps/scaffold_sample/vendor/bundle/ruby/2.4.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190630-18978-1mfxyco/skiptrace
